@@ -1,0 +1,19 @@
+.mainWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Container {
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.myInfoContainer{
+    background-color: #cad9ca;
+    min-height: 40vh;
+}
+.mySkillsContainer{
+    background-color: rosybrown;
+}
