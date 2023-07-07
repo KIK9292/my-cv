@@ -13,7 +13,7 @@ export const Main = () => {
             <div className={`${s.Container} ${s.mySkillsContainer}`}><MySkills/></div>
             <div className={`${s.Container} ${s.myProjectsContainer}`}><MyProjects/></div>
             <div className={`${s.Container} ${s.myOffersContainer}`}><Offers/></div>
-            <div className={`${s.Container} `}><Contacts/></div>
+            <div className={`${s.Container} ${s.myContactsContainer}`}><Contacts/></div>
 </div>
             )
             }

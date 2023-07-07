@@ -15,11 +15,14 @@
     min-height: 40vh;
 }
 .mySkillsContainer{
-    background-color: rosybrown;
+    background-color: #cad9ca;
 }
 .myProjectsContainer{
     background-color: #d3aed3;
 }
 .myOffersContainer{
-    background-color: beige;
+    background-color: #cad9ca;
+}
+.myContactsContainer{
+    background-color: #7c99bd;
 }
