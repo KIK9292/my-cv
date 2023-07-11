@@ -4,7 +4,7 @@ import s from "./MyInfo.module.css"
 
 export const Myinfo = () => {
     return (
-        <div className={s.infoWrapper}>
+        <div className={s.infoWrapper} id="Main">
             <div>
                 <h2>Привет!</h2>
                 <p>Меня зовут <h3><b>Кирилл Козлов.</b></h3>

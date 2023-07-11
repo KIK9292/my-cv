@@ -10,7 +10,8 @@
 
 .contactsWrapperForm{
     width: 60%;
-    border: 1px solid;
+
     display: flex;
     flex-direction: column;
+    gap: 20px;
 }
